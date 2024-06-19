@@ -1,0 +1,1033 @@
+{
+    "word": "which",
+    "count": 1,
+    "color": "Black",
+    "left": {
+        "word": "what",
+        "count": 2,
+        "color": "Black",
+        "left": {
+            "word": "typing",
+            "count": 1,
+            "color": "Red",
+            "left": {
+                "word": "the",
+                "count": 15,
+                "color": "Black",
+                "left": {
+                    "word": "summary",
+                    "count": 2,
+                    "color": "Red",
+                    "left": {
+                        "word": "semantics.",
+                        "count": 1,
+                        "color": "Black",
+                        "left": {
+                            "word": "python?",
+                            "count": 2,
+                            "color": "Black",
+                            "left": {
+                                "word": "python",
+                                "count": 7,
+                                "color": "Red",
+                                "left": {
+                                    "word": "program",
+                                    "count": 4,
+                                    "color": "Black",
+                                    "left": {
+                                        "word": "prints",
+                                        "count": 1,
+                                        "color": "Black",
+                                        "left": {
+                                            "word": "platforms,",
+                                            "count": 1,
+                                            "color": "Red",
+                                            "left": {
+                                                "word": "or",
+                                                "count": 3,
+                                                "color": "Black",
+                                                "left": {
+                                                    "word": "object-oriented,",
+                                                    "count": 1,
+                                                    "color": "Red",
+                                                    "left": {
+                                                        "word": "is",
+                                                        "count": 8,
+                                                        "color": "Black",
+                                                        "left": {
+                                                            "word": "high-level",
+                                                            "count": 2,
+                                                            "color": "Red",
+                                                            "left": {
+                                                                "word": "executive",
+                                                                "count": 2,
+                                                                "color": "Black",
+                                                                "left": {
+                                                                    "word": "encourages",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": {
+                                                                        "word": "dynamic",
+                                                                        "count": 3,
+                                                                        "color": "Black",
+                                                                        "left": {
+                                                                            "word": "data",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": {
+                                                                                "word": "compilation",
+                                                                                "count": 1,
+                                                                                "color": "Balck",
+                                                                                "left": {
+                                                                                    "word": "combined",
+                                                                                    "count": 1,
+                                                                                    "color": "Black",
+                                                                                    "left": {
+                                                                                        "word": "built",
+                                                                                        "count": 1,
+                                                                                        "color": "Red",
+                                                                                        "left": {
+                                                                                            "word": "be",
+                                                                                            "count": 1,
+                                                                                            "color": "Balck",
+                                                                                            "left": {
+                                                                                                "word": "attractive",
+                                                                                                "count": 1,
+                                                                                                "color": "Balck",
+                                                                                                "left": {
+                                                                                                    "word": "and",
+                                                                                                    "count": 9,
+                                                                                                    "color": "Red",
+                                                                                                    "left": {
+                                                                                                        "word": "an",
+                                                                                                        "count": 3,
+                                                                                                        "color": "Black",
+                                                                                                        "left": {
+                                                                                                            "word": "allows",
+                                                                                                            "count": 1,
+                                                                                                            "color": "Black",
+                                                                                                            "left": {
+                                                                                                                "word": "all",
+                                                                                                                "count": 1,
+                                                                                                                "color": "Red",
+                                                                                                                "left": {
+                                                                                                                    "word": "a",
+                                                                                                                    "count": 9,
+                                                                                                                    "color": "Black",
+                                                                                                                    "left": null,
+                                                                                                                    "right": {
+                                                                                                                        "word": "add",
+                                                                                                                        "count": 1,
+                                                                                                                        "color": "Red",
+                                                                                                                        "left": null,
+                                                                                                                        "right": null
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "right": null
+                                                                                                            },
+                                                                                                            "right": {
+                                                                                                                "word": "also",
+                                                                                                                "count": 1,
+                                                                                                                "color": "Red",
+                                                                                                                "left": null,
+                                                                                                                "right": null
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "right": null
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "word": "as",
+                                                                                                        "count": 3,
+                                                                                                        "color": "Black",
+                                                                                                        "left": {
+                                                                                                            "word": "are",
+                                                                                                            "count": 1,
+                                                                                                            "color": "Red",
+                                                                                                            "left": {
+                                                                                                                "word": "approach",
+                                                                                                                "count": 1,
+                                                                                                                "color": "Black",
+                                                                                                                "left": {
+                                                                                                                    "word": "application",
+                                                                                                                    "count": 1,
+                                                                                                                    "color": "Red",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                },
+                                                                                                                "right": {
+                                                                                                                    "word": "arbitrary",
+                                                                                                                    "count": 1,
+                                                                                                                    "color": "Red",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "right": null
+                                                                                                        },
+                                                                                                        "right": {
+                                                                                                            "word": "at",
+                                                                                                            "count": 1,
+                                                                                                            "color": "Red",
+                                                                                                            "left": null,
+                                                                                                            "right": null
+                                                                                                        }
+                                                                                                    }
+                                                                                                },
+                                                                                                "right": {
+                                                                                                    "word": "available",
+                                                                                                    "count": 1,
+                                                                                                    "color": "Balck",
+                                                                                                    "left": null,
+                                                                                                    "right": {
+                                                                                                        "word": "bad",
+                                                                                                        "count": 1,
+                                                                                                        "color": "Red",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                }
+                                                                                            },
+                                                                                            "right": {
+                                                                                                "word": "breakpoints,",
+                                                                                                "count": 1,
+                                                                                                "color": "Red",
+                                                                                                "left": {
+                                                                                                    "word": "binding,",
+                                                                                                    "count": 1,
+                                                                                                    "color": "Black",
+                                                                                                    "left": {
+                                                                                                        "word": "binary",
+                                                                                                        "count": 1,
+                                                                                                        "color": "Red",
+                                                                                                        "left": {
+                                                                                                            "word": "because",
+                                                                                                            "count": 1,
+                                                                                                            "color": "Black",
+                                                                                                            "left": null,
+                                                                                                            "right": {
+                                                                                                                "word": "between",
+                                                                                                                "count": 1,
+                                                                                                                "color": "Red",
+                                                                                                                "left": null,
+                                                                                                                "right": null
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "right": null
+                                                                                                    },
+                                                                                                    "right": null
+                                                                                                },
+                                                                                                "right": {
+                                                                                                    "word": "bug",
+                                                                                                    "count": 1,
+                                                                                                    "color": "Red",
+                                                                                                    "left": null,
+                                                                                                    "right": null
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "right": {
+                                                                                            "word": "code",
+                                                                                            "count": 2,
+                                                                                            "color": "Black",
+                                                                                            "left": {
+                                                                                                "word": "charge",
+                                                                                                "count": 1,
+                                                                                                "color": "Red",
+                                                                                                "left": {
+                                                                                                    "word": "catch",
+                                                                                                    "count": 1,
+                                                                                                    "color": "Black",
+                                                                                                    "left": {
+                                                                                                        "word": "can",
+                                                                                                        "count": 1,
+                                                                                                        "color": "Red",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "word": "cause",
+                                                                                                        "count": 1,
+                                                                                                        "color": "Red",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                },
+                                                                                                "right": null
+                                                                                            },
+                                                                                            "right": null
+                                                                                        }
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "word": "comparisons",
+                                                                                        "count": 1,
+                                                                                        "color": "Red",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                },
+                                                                                "right": {
+                                                                                    "word": "components",
+                                                                                    "count": 1,
+                                                                                    "color": "Red",
+                                                                                    "left": null,
+                                                                                    "right": {
+                                                                                        "word": "cost",
+                                                                                        "count": 1,
+                                                                                        "color": "Black",
+                                                                                        "left": {
+                                                                                            "word": "connect",
+                                                                                            "count": 1,
+                                                                                            "color": "Red",
+                                                                                            "left": null,
+                                                                                            "right": null
+                                                                                        },
+                                                                                        "right": {
+                                                                                            "word": "cycle",
+                                                                                            "count": 2,
+                                                                                            "color": "Red",
+                                                                                            "left": null,
+                                                                                            "right": null
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "right": {
+                                                                                "word": "development,",
+                                                                                "count": 1,
+                                                                                "color": "Black",
+                                                                                "left": {
+                                                                                    "word": "debugging",
+                                                                                    "count": 1,
+                                                                                    "color": "Red",
+                                                                                    "left": {
+                                                                                        "word": "debugger",
+                                                                                        "count": 2,
+                                                                                        "color": "Black",
+                                                                                        "left": {
+                                                                                            "word": "debug",
+                                                                                            "count": 1,
+                                                                                            "color": "Red",
+                                                                                            "left": null,
+                                                                                            "right": null
+                                                                                        },
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": null
+                                                                                },
+                                                                                "right": {
+                                                                                    "word": "distributed.",
+                                                                                    "count": 1,
+                                                                                    "color": "Black",
+                                                                                    "left": {
+                                                                                        "word": "discovers",
+                                                                                        "count": 1,
+                                                                                        "color": "Red",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "word": "doesn't",
+                                                                                        "count": 1,
+                                                                                        "color": "Red",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "word": "emphasizes",
+                                                                            "count": 1,
+                                                                            "color": "Balck",
+                                                                            "left": {
+                                                                                "word": "easy:",
+                                                                                "count": 1,
+                                                                                "color": "Red",
+                                                                                "left": {
+                                                                                    "word": "easy",
+                                                                                    "count": 1,
+                                                                                    "color": "Balck",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                },
+                                                                                "right": {
+                                                                                    "word": "edit-test-debug",
+                                                                                    "count": 2,
+                                                                                    "color": "Black",
+                                                                                    "left": null,
+                                                                                    "right": {
+                                                                                        "word": "effective.",
+                                                                                        "count": 1,
+                                                                                        "color": "Red",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "right": null
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "word": "exception,",
+                                                                        "count": 1,
+                                                                        "color": "Red",
+                                                                        "left": {
+                                                                            "word": "error,",
+                                                                            "count": 1,
+                                                                            "color": "Black",
+                                                                            "left": null,
+                                                                            "right": {
+                                                                                "word": "evaluation",
+                                                                                "count": 1,
+                                                                                "color": "Red",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "word": "exception.",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "right": {
+                                                                    "word": "glue",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": {
+                                                                        "word": "form",
+                                                                        "count": 1,
+                                                                        "color": "Black",
+                                                                        "left": {
+                                                                            "word": "for",
+                                                                            "count": 3,
+                                                                            "color": "Red",
+                                                                            "left": {
+                                                                                "word": "extensive",
+                                                                                "count": 1,
+                                                                                "color": "Black",
+                                                                                "left": {
+                                                                                    "word": "existing",
+                                                                                    "count": 1,
+                                                                                    "color": "Balck",
+                                                                                    "left": null,
+                                                                                    "right": {
+                                                                                        "word": "expressions,",
+                                                                                        "count": 1,
+                                                                                        "color": "Red",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                },
+                                                                                "right": {
+                                                                                    "word": "fast.",
+                                                                                    "count": 1,
+                                                                                    "color": "Red",
+                                                                                    "left": {
+                                                                                        "word": "fall",
+                                                                                        "count": 1,
+                                                                                        "color": "Balck",
+                                                                                        "left": null,
+                                                                                        "right": {
+                                                                                            "word": "fast",
+                                                                                            "count": 1,
+                                                                                            "color": "Red",
+                                                                                            "left": null,
+                                                                                            "right": null
+                                                                                        }
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "word": "fault.",
+                                                                                        "count": 1,
+                                                                                        "color": "Black",
+                                                                                        "left": null,
+                                                                                        "right": {
+                                                                                            "word": "few",
+                                                                                            "count": 1,
+                                                                                            "color": "Red",
+                                                                                            "left": null,
+                                                                                            "right": null
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "right": null
+                                                                        },
+                                                                        "right": {
+                                                                            "word": "freely",
+                                                                            "count": 1,
+                                                                            "color": "Black",
+                                                                            "left": null,
+                                                                            "right": {
+                                                                                "word": "global",
+                                                                                "count": 1,
+                                                                                "color": "Red",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "word": "hand,",
+                                                                        "count": 1,
+                                                                        "color": "Red",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "word": "interpreter",
+                                                                "count": 3,
+                                                                "color": "Black",
+                                                                "left": {
+                                                                    "word": "interpreted,",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": {
+                                                                        "word": "increased",
+                                                                        "count": 1,
+                                                                        "color": "Black",
+                                                                        "left": {
+                                                                            "word": "in",
+                                                                            "count": 4,
+                                                                            "color": "Balck",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": {
+                                                                            "word": "input",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": {
+                                                                                "word": "incredibly",
+                                                                                "count": 1,
+                                                                                "color": "Balck",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            },
+                                                                            "right": {
+                                                                                "word": "instead,",
+                                                                                "count": 1,
+                                                                                "color": "Black",
+                                                                                "left": {
+                                                                                    "word": "inspection",
+                                                                                    "count": 1,
+                                                                                    "color": "Red",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                },
+                                                                                "right": null
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "right": null
+                                                                },
+                                                                "right": {
+                                                                    "word": "introspective",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                }
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "word": "maintenance.",
+                                                            "count": 1,
+                                                            "color": "Red",
+                                                            "left": {
+                                                                "word": "library",
+                                                                "count": 1,
+                                                                "color": "Black",
+                                                                "left": {
+                                                                    "word": "learn",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": {
+                                                                        "word": "language",
+                                                                        "count": 2,
+                                                                        "color": "Balck",
+                                                                        "left": {
+                                                                            "word": "its",
+                                                                            "count": 1,
+                                                                            "color": "Black",
+                                                                            "left": {
+                                                                                "word": "it",
+                                                                                "count": 3,
+                                                                                "color": "Red",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            },
+                                                                            "right": {
+                                                                                "word": "itself,",
+                                                                                "count": 1,
+                                                                                "color": "Red",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "word": "languages.",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "word": "level",
+                                                                        "count": 1,
+                                                                        "color": "Balck",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                },
+                                                                "right": {
+                                                                    "word": "love",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": {
+                                                                        "word": "local",
+                                                                        "count": 1,
+                                                                        "color": "Black",
+                                                                        "left": {
+                                                                            "word": "line",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": null
+                                                                    },
+                                                                    "right": null
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "word": "make",
+                                                                "count": 1,
+                                                                "color": "Black",
+                                                                "left": {
+                                                                    "word": "major",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                },
+                                                                "right": {
+                                                                    "word": "modules",
+                                                                    "count": 1,
+                                                                    "color": "Red",
+                                                                    "left": {
+                                                                        "word": "modularity",
+                                                                        "count": 1,
+                                                                        "color": "Balck",
+                                                                        "left": {
+                                                                            "word": "makes",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": null
+                                                                    },
+                                                                    "right": {
+                                                                        "word": "no",
+                                                                        "count": 1,
+                                                                        "color": "Black",
+                                                                        "left": {
+                                                                            "word": "never",
+                                                                            "count": 1,
+                                                                            "color": "Red",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": null
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "word": "often,",
+                                                        "count": 1,
+                                                        "color": "Red",
+                                                        "left": {
+                                                            "word": "of",
+                                                            "count": 4,
+                                                            "color": "Balck",
+                                                            "left": null,
+                                                            "right": {
+                                                                "word": "often",
+                                                                "count": 1,
+                                                                "color": "Red",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "word": "on.",
+                                                            "count": 1,
+                                                            "color": "Black",
+                                                            "left": {
+                                                                "word": "on",
+                                                                "count": 1,
+                                                                "color": "Red",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": null
+                                                        }
+                                                    }
+                                                },
+                                                "right": {
+                                                    "word": "packages,",
+                                                    "count": 1,
+                                                    "color": "Balck",
+                                                    "left": {
+                                                        "word": "other",
+                                                        "count": 2,
+                                                        "color": "Red",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": null
+                                                }
+                                            },
+                                            "right": {
+                                                "word": "power.",
+                                                "count": 1,
+                                                "color": "Black",
+                                                "left": null,
+                                                "right": {
+                                                    "word": "print",
+                                                    "count": 1,
+                                                    "color": "Red",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        },
+                                        "right": {
+                                            "word": "productivity",
+                                            "count": 1,
+                                            "color": "Red",
+                                            "left": null,
+                                            "right": null
+                                        }
+                                    },
+                                    "right": {
+                                        "word": "programming",
+                                        "count": 1,
+                                        "color": "Red",
+                                        "left": {
+                                            "word": "programmers",
+                                            "count": 1,
+                                            "color": "Balck",
+                                            "left": null,
+                                            "right": null
+                                        },
+                                        "right": {
+                                            "word": "provides.",
+                                            "count": 1,
+                                            "color": "Black",
+                                            "left": {
+                                                "word": "programs",
+                                                "count": 1,
+                                                "color": "Red",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": null
+                                        }
+                                    }
+                                },
+                                "right": {
+                                    "word": "python's",
+                                    "count": 2,
+                                    "color": "Red",
+                                    "left": null,
+                                    "right": null
+                                }
+                            },
+                            "right": {
+                                "word": "see",
+                                "count": 1,
+                                "color": "Black",
+                                "left": {
+                                    "word": "scripting",
+                                    "count": 1,
+                                    "color": "Red",
+                                    "left": {
+                                        "word": "readability",
+                                        "count": 1,
+                                        "color": "Black",
+                                        "left": {
+                                            "word": "rapid",
+                                            "count": 1,
+                                            "color": "Red",
+                                            "left": {
+                                                "word": "raises",
+                                                "count": 1,
+                                                "color": "Black",
+                                                "left": {
+                                                    "word": "quickest",
+                                                    "count": 1,
+                                                    "color": "Red",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": null
+                                            },
+                                            "right": null
+                                        },
+                                        "right": {
+                                            "word": "reduces",
+                                            "count": 1,
+                                            "color": "Black",
+                                            "left": null,
+                                            "right": {
+                                                "word": "reuse.",
+                                                "count": 1,
+                                                "color": "Red",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        }
+                                    },
+                                    "right": null
+                                },
+                                "right": {
+                                    "word": "segmentation",
+                                    "count": 1,
+                                    "color": "Red",
+                                    "left": null,
+                                    "right": null
+                                }
+                            }
+                        },
+                        "right": {
+                            "word": "stepping",
+                            "count": 1,
+                            "color": "Red",
+                            "left": {
+                                "word": "step,",
+                                "count": 1,
+                                "color": "Black",
+                                "left": {
+                                    "word": "standard",
+                                    "count": 1,
+                                    "color": "Red",
+                                    "left": {
+                                        "word": "since",
+                                        "count": 1,
+                                        "color": "Black",
+                                        "left": {
+                                            "word": "simple,",
+                                            "count": 1,
+                                            "color": "Red",
+                                            "left": {
+                                                "word": "setting",
+                                                "count": 1,
+                                                "color": "Black",
+                                                "left": null,
+                                                "right": {
+                                                    "word": "simple",
+                                                    "count": 1,
+                                                    "color": "Red",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            },
+                                            "right": null
+                                        },
+                                        "right": {
+                                            "word": "source",
+                                            "count": 2,
+                                            "color": "Red",
+                                            "left": {
+                                                "word": "so",
+                                                "count": 1,
+                                                "color": "Balck",
+                                                "left": null,
+                                                "right": {
+                                                    "word": "some",
+                                                    "count": 1,
+                                                    "color": "Red",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            },
+                                            "right": {
+                                                "word": "stack",
+                                                "count": 1,
+                                                "color": "Black",
+                                                "left": {
+                                                    "word": "source:",
+                                                    "count": 1,
+                                                    "color": "Red",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": null
+                                            }
+                                        }
+                                    },
+                                    "right": {
+                                        "word": "statements",
+                                        "count": 1,
+                                        "color": "Red",
+                                        "left": null,
+                                        "right": null
+                                    }
+                                },
+                                "right": null
+                            },
+                            "right": {
+                                "word": "structures,",
+                                "count": 1,
+                                "color": "Red",
+                                "left": null,
+                                "right": null
+                            }
+                        }
+                    },
+                    "right": {
+                        "word": "syntax",
+                        "count": 1,
+                        "color": "Black",
+                        "left": {
+                            "word": "supports",
+                            "count": 1,
+                            "color": "Red",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "word": "testifying",
+                            "count": 1,
+                            "color": "Red",
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "word": "together.",
+                    "count": 1,
+                    "color": "Red",
+                    "left": {
+                        "word": "to",
+                        "count": 6,
+                        "color": "Black",
+                        "left": {
+                            "word": "therefore",
+                            "count": 1,
+                            "color": "Red",
+                            "left": {
+                                "word": "there",
+                                "count": 1,
+                                "color": "Balck",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "word": "through",
+                                "count": 1,
+                                "color": "Black",
+                                "left": {
+                                    "word": "this",
+                                    "count": 1,
+                                    "color": "Red",
+                                    "left": null,
+                                    "right": null
+                                },
+                                "right": {
+                                    "word": "time,",
+                                    "count": 1,
+                                    "color": "Red",
+                                    "left": null,
+                                    "right": null
+                                }
+                            }
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "word": "trace.",
+                        "count": 1,
+                        "color": "Red",
+                        "left": null,
+                        "right": null
+                    }
+                }
+            },
+            "right": {
+                "word": "way",
+                "count": 1,
+                "color": "Black",
+                "left": {
+                    "word": "very",
+                    "count": 2,
+                    "color": "Red",
+                    "left": {
+                        "word": "use",
+                        "count": 1,
+                        "color": "Black",
+                        "left": null,
+                        "right": {
+                            "word": "variables,",
+                            "count": 1,
+                            "color": "Red",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": null
+                },
+                "right": {
+                    "word": "well",
+                    "count": 1,
+                    "color": "Red",
+                    "left": null,
+                    "right": null
+                }
+            }
+        },
+        "right": {
+            "word": "when",
+            "count": 2,
+            "color": "Red",
+            "left": null,
+            "right": null
+        }
+    },
+    "right": {
+        "word": "with",
+        "count": 3,
+        "color": "Red",
+        "left": {
+            "word": "will",
+            "count": 1,
+            "color": "Balck",
+            "left": null,
+            "right": null
+        },
+        "right": {
+            "word": "without",
+            "count": 1,
+            "color": "Black",
+            "left": null,
+            "right": {
+                "word": "written",
+                "count": 1,
+                "color": "Red",
+                "left": null,
+                "right": null
+            }
+        }
+    }
+}
